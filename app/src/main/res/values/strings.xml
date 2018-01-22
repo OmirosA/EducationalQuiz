@@ -1,0 +1,62 @@
+<resources>
+
+
+    <string name="app_name">EducationalQuiz</string>
+    <string name="title">Biology Quiz</string>
+
+    <string name="q1">1. All cells have:</string>
+    <string name="q1_a">A nucleus</string>
+    <string name="q1_b">DNA</string>
+    <string name="q1_c">A cell wall</string>
+    <string name="q1_d">Mitochondria</string>
+
+    <string name="q2">2. A group of cells that perform a similar function are called:</string>
+    <string name="q2_a">Cellular system</string>
+    <string name="q2_b">Tissue</string>
+    <string name="q2_c">Organ</string>
+    <string name="q2_d">Organ system</string>
+
+    <string name="q3">3. Which of these organelles converts energy from food into a usable form?</string>
+    <string name="q3_a">Mitochondria</string>
+    <string name="q3_b">Chloroplasts</string>
+    <string name="q3_c">Endoplasmic reticulum</string>
+    <string name="q3_d">Centrioles</string>
+
+    <string name="q4">4. Which of these are considered a domain of life?</string>
+    <string name="q4_a">Bacteria</string>
+    <string name="q4_b">Eukarya</string>
+    <string name="q4_c">Animalia</string>
+    <string name="q4_d">Archaea</string>
+
+    <string name="q5">5. Which group of animals is larger?</string>
+    <string name="q5_a">Vertebrates</string>
+    <string name="q5_b">Invertebrates</string>
+
+    <string name="q6">6. ______ is an example of two organisms that share a similar trait but have very different evolutionary histories. Fill in the blank.</string>
+    <string name="q6_a">Emergent evolution</string>
+    <string name="q6_b">Complex evolution</string>
+    <string name="q6_c">Divergent evolution</string>
+    <string name="q6_d">Convergent evolution</string>
+
+    <string name="q7">7. Different forms of the same gene are referred to as:</string>
+    <string name="q7_a">Genotypes</string>
+    <string name="q7_b">Phenotypes</string>
+    <string name="q7_c">Alleles</string>
+    <string name="q7_d">Polygenetic traits</string>
+
+    <string name="reset">Reset</string>
+    <string name="submit">Submit</string>
+    <string name="outOf">/7</string>
+    <string name="perfectScore">Perfect!</string>
+    <string name="greatScore">Excellent!</string>
+    <string name="goodScore">Well Done!</string>
+    <string name="badScore">Ouch. Better luck next time!</string>
+    <string name="zeroScore">You probably would fail high school biology today. It is possible you passed once, but it is also possible to get eaten by a shark while being struck by lightning for a second time.</string>
+    <string name="scoreText">You scored</string>
+    <string name="scoreReset">Reset the score.</string>
+    <string name="name">Insert Name</string>
+    <string name="intro">Do you have what it takes to pass high school biology?</string>
+    <string name="chooseAnswer">Please select an answer for each question</string>
+    <string name="nameError">Please provide a name</string>
+
+</resources>
